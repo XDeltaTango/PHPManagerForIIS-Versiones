@@ -1,3 +1,5 @@
+Please look at v1.5 here: https://github.com/RonaldCarter/PHPManager/releases
+
 # PHPManagerForIIS-Versiones
 
 Versiones para cargar un manager PHP en IIS (Probadas)
