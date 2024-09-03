@@ -28,3 +28,4 @@ https://groups.google.com/forum/#!forum/php-manager-for-iis/
 https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10
 
 
+For IIS 10, you need .NET 2.0: https://download.microsoft.com/download/3/a/3/3a3bda26-560d-4d8e-922e-6f6bc4553a84/AspNetCore.2.0.9.RuntimePackageStore_x64.exe
